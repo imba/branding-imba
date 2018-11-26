@@ -5,11 +5,11 @@ Includes
 - Brand colors files in CSS, Sass, Scss, Adobe Color Swatches (ASE)
 - Font Styles in CSS, Sass, Scss
 - Images
-    /icon
-        /png
-        /svg
-    /logo
-        /png
-        /svg
-    /thumbnails
-        /png
+    - /icon)
+        - /png
+        - /svg
+    - /logo
+        - /png
+        - /svg
+    - /thumbnails
+        - /png
