@@ -1,0 +1,18 @@
+/* imba-colors */
+
+/* Color Previews: https://sipapp.io/p/?id=12904 */
+
+:root {
+    --black: #292A3C;
+    --white: #F7F7F5;
+    --greenshadow: #d2d219;
+    --green: #f0f00a;
+    --purpleshadow: #6114a3;
+    --purple: #7a21c5;
+    --tealshadow: #01b6ae;
+    --teal: #62d6d2;
+    --secondary-shadow: #f03825;
+    --secondary: #ff5945;
+    --primary-shadow: #ffb100;
+    --primary: #ffdc00;
+}
