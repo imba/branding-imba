@@ -1,5 +1,5 @@
 # Imba 2 Brand Assets
-![Imba Logo](https://raw.githubusercontent.com/imba/brand/master/imba-web-logo.png)
+<img width="300" src="https://github.com/imba/brand/blob/master/imba-web-logo.png"></a>
 ## logo images
 - imba-icon-1200x1200.png/.svg
   - use for VS Code Plugin, and file icon
