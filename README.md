@@ -7,7 +7,7 @@
 - imba-web-logo-inverted.png/.svg
 
 ## favicon.ico
-place `favicon.ico` image at the root of your project to have a default favicon.
+Place the `favicon.ico` image at the root of your project to have a default favicon.
 
 ## Icons Folder
 Place `/icons` folder in your project, then add add the following code to the head of your index.html, to add icon support for homescreen images for iOS, Android, Windows, and high resolution favicons.
