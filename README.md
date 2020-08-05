@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Imba 2 Brand Images
 ![Imba Logo](https://raw.githubusercontent.com/imba/brand/master/imba-web-logo.png)
 ## logo images
@@ -30,3 +31,6 @@ Place `/icons` folder in your project, then add add the following code to the he
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 ```
+=======
+![Imba Logo](https://raw.githubusercontent.com/imba/brand/master/imba-web-logo.png)
+>>>>>>> 66d566eb992b931970ac81c0a6e1f7957a30e624
