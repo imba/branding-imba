@@ -1,5 +1,6 @@
 # Imba 2 Brand Assets
-<img width="300" src="https://github.com/imba/brand/blob/master/imba-web-logo.png"></a>
+<img width="300" src="https://github.com/imba/branding-imba/blob/master/mascot/mascot-full-pink.png"></a>
+
 ## logo folder
 - imba-web-logo.png/.svg
 - imba-web-logo-inverted.png/.svg
