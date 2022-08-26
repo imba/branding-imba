@@ -1,15 +1,19 @@
 # Imba 2 Brand Assets
 <img width="300" src="https://github.com/imba/brand/blob/master/imba-web-logo.png"></a>
-## logo images
-- imba-icon-1200x1200.png/.svg
-  - use for VS Code Plugin, and file icon
+## logo folder
 - imba-web-logo.png/.svg
 - imba-web-logo-inverted.png/.svg
 
-## favicon.ico
-Place the `favicon.ico` image at the root of your project to have a default favicon.
+## icons folder
+favicon.ico
 
-## Icons Folder
+- Place the `favicon.ico` image at the root of your project to have a default favicon.
+
+imba-icon-1200x1200.png/.svg
+
+- use for VS Code Plugin, and file icon
+
+## mobile-icons folder
 Place `/icons` folder in your project, then add add the following code to the head of your index.html, to add icon support for homescreen images for iOS, Android, Windows, and high resolution favicons.
 ```
 <link rel="apple-touch-icon" sizes="57x57" href="./icons/apple-icon-57x57.png">
@@ -30,3 +34,10 @@ Place `/icons` folder in your project, then add add the following code to the he
 <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 ```
+
+## mascot folder
+
+contains full body images of pink and yellow mascot, and individual parts of mascot for animation.
+
+
+
